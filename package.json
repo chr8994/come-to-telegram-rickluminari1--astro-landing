@@ -26,7 +26,7 @@
     "clsx": "^2.1.0",
     "framer-motion": "^11.0.0",
     "lucide-react": "^0.462.0",
-    "next": "^15",
+    "next": "14",
     "next-themes": "^0.2.1",
     "react": "^18",
     "react-dom": "^18",
